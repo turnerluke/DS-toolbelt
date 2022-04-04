@@ -1,2 +1,2 @@
 # DS-toolbelt
-A toolbelt of useful data science notebooks to reference at a later time.
+A repository of useful data science notebooks and cheatsheets to reference at a later time.
